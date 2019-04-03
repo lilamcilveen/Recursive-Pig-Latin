@@ -1,4 +1,4 @@
-#### Recursive Pig Latin
+## Recursive Pig Latin
 This project explores the functional programming paradigm. The idea is to describe "what" each component is to solve the problem, rather than "how" a result may be computed.
 
 *The idea behind the functional programming:
