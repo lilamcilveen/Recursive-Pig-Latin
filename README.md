@@ -1,5 +1,5 @@
 ### Recursive-Pig-Latin
-This project explores the functional programming paradigm. The idea behind this is to describe "what" each component is to solve the problem, rather than "how" a result may be computed.
+This project explores the functional programming paradigm. The idea behind it is to describe "what" each component is to solve the problem, rather than "how" a result may be computed.
 
 The idea behind the functional programming:
  - We start by asking: "What data do I have?" and "How do I want to transform that data to solve the problem at hand?".
