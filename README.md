@@ -8,9 +8,9 @@ This project explores the functional programming paradigm. The idea is to descri
  - We avoid changing-state and mutable data.
  
 ## How to run:
- - On Windows, input:
+ - On **Windows**, input:
          **python piggypoo.py**
- - On Linux, input:
+ - On **Linux**, input:
          **python3 piggypoo.py**
          
  - Once it is running you can enter in a "Snake Case". 
