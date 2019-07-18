@@ -3,9 +3,9 @@ This project explores the functional programming paradigm. The idea is to descri
 
 ## The idea behind the functional programming:
  - We start by asking: "**What data do I have?**" and "**How do I want to transform that data to solve the problem at hand?**".
- - Functions are the most important part of the program. Instead of telling that data to do something, pass it to a function to do something. 
+ - **Functions** are the most important part of the program. Instead of telling that data to do something, pass it to a function to do something. 
  - A function doesn't modify the original data, although it may return a modified copy of it. Recursion is awesome!
- - We avoid changing-state and mutable data.
+ - We **avoid changing-state** and mutable data.
  
 ## How to run:
  - On **Windows**, input:
